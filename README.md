@@ -1,4 +1,4 @@
-![alt text](https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX} “Banner”)
+
 ### Hi there 👋
 
 <!--
